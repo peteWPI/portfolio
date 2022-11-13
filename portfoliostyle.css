@@ -17,6 +17,7 @@ body{ background-color: antiquewhite;
 
 nav{
 	display: flex;
+	justify-content: space-between;
 	width: 100%;
 	color: azure;
 	background-color: whitesmoke;
