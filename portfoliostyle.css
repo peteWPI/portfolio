@@ -22,7 +22,7 @@ nav{
 	width: 100%;
 	color: azure;
 	background-color: whitesmoke;
-	padding-left: 20px;
+	padding-left: 0px;
 	padding-right: 10px;
 }
 
@@ -48,7 +48,7 @@ nav{
 }
 
 .navbar-item:hover {
-	background-color: lightcoral;
+	background-color: white;
 	
 }
 
