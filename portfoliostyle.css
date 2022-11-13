@@ -18,6 +18,7 @@ body{ background-color: antiquewhite;
 nav{
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 	width: 100%;
 	color: azure;
 	background-color: whitesmoke;
@@ -33,11 +34,13 @@ nav{
 }
 
 .navbar-links{
+	display:flex;
 	list-style: none;
 }
 
 .navbar-item a{
 	display: inline-block;
+	align-content: center;
 	padding: 10px 20px;
 	text-decoration: none;
 	color: black;
